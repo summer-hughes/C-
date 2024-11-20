@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD71DC6-8FA9-4162-B00C-04AFB206D265}|Prog4\\Prog4.csproj|c:\\users\\summe\\onedrive\\documents\\cis 199\\programs\\prog4\\prog4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD71DC6-8FA9-4162-B00C-04AFB206D265}|Prog4\\Prog4.csproj|solutionrelative:prog4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD71DC6-8FA9-4162-B00C-04AFB206D265}|Prog4\\Prog4.csproj|C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\prog4\\cats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD71DC6-8FA9-4162-B00C-04AFB206D265}|Prog4\\Prog4.csproj|solutionrelative:prog4\\cats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cats.cs",
+              "DocumentMoniker": "C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\Prog4\\Cats.cs",
+              "RelativeDocumentMoniker": "Prog4\\Cats.cs",
+              "ToolTip": "C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\Prog4\\Cats.cs",
+              "RelativeToolTip": "Prog4\\Cats.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-09T03:16:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\Prog4\\Program.cs",
+              "RelativeDocumentMoniker": "Prog4\\Program.cs",
+              "ToolTip": "C:\\Users\\summe\\OneDrive\\Documents\\CIS 199\\Programs\\Prog4\\Prog4\\Program.cs",
+              "RelativeToolTip": "Prog4\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-19T20:42:28.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
